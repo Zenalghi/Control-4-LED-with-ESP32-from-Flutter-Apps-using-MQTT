@@ -1,7 +1,8 @@
 # smartautolamp
 
 A new Flutter project.
-
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+FYI: I delete build folder cause it very huge size
 ## Getting Started
 
 This project is a starting point for a Flutter application.
